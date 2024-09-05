@@ -1,1 +1,1 @@
-Practicing c# & .NET for Dat240
+Practicing C# & .NET for Dat240
