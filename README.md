@@ -1,18 +1,23 @@
 (Practicing C# & .NET for Dat240)
 
-
-### Should cover:
-- The basics
+### Should cover most, if not all:
 - Types
+- Classes
+- Values
+- Interfaces
+- Objects
+- Loops
 - Generics
 - OOP
+- Type Casting
+- Queue
 - Dependency Injection, DI
 - IEnumerable
  
-The project is a simple Library Management System. The goal is to build a console application where you can manage books and authors in a library.
-
 
 # Project Overview: Library Management System
+The project is a simple Library Management System. The goal is to build a console application where you can manage books and authors in a library.
+
 ### Features:
 - [ ] Manage Books and Authors: Add, remove, and display books and authors.
 - [ ] Use Generics: Create a repository to manage books and authors using generics.
