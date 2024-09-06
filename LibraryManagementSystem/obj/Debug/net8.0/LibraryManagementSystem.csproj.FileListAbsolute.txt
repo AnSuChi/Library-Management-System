@@ -1,0 +1,15 @@
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.deps.json
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.runtimeconfig.json
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.dll
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.pdb
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.AssemblyInfoInputs.cache
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.AssemblyInfo.cs
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.sourcelink.json
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.dll
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/refint/LibraryManagementSystem.dll
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.pdb
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.genruntimeconfig.cache
+/Users/suchi/Personal/PRACTICE/c#/Basics/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net8.0/ref/LibraryManagementSystem.dll
