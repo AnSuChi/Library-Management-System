@@ -1,37 +1,30 @@
 using System;
 
-namespace Books;
 
-public class Book
+namespace LibraryPublications;
+
+public class Book : IPublication
 {
+    //Fields: 
+    // Variables declared directly in a class or struct --> used to store data and represent the state of an object.
 
-    // Fields
-        //public int BookId;
-        //public string Title;
-        //public string Isbn;
-        // ...
-
-    // Properties
-    public int BookId { get; set; }
+    //Properties:
+    // Provide a way to access and modify the values of fields (controlled access). They act as an intermediary between the data and the outside world.
     public string Title { get; set; }
-    public string Isbn { get; set; }
-    public string Publisher { get; set; }
-    public int Year { get; set; }
     public string Author { get; set; }
+    public string Isbn { get; set; }
+    public DateOnly PublishedDate { get; set; }
+    public bool Available { get; set; }
 
-    // Constructor - giving default values to fields
-    public Book(int bookId, string title, string isbn, string publisher, int year, string author)
+
+    // Constructor - giving default/initialization values to fields
+    public Book(string title, string author, string isbn, DateOnly publishedDate, bool available) 
     {
-        //Title = "Untitled";
-        //Isbn = "0000000000000";
-        //Publisher = "Unknown";
-        //Author = "Unknown";
-
-        BookId = bookId;
         Title = title;
-        Isbn = isbn;
-        Publisher = publisher;
-        Year = year;
         Author = author;
+        Isbn = isbn;
+        PublishedDate = publishedDate;
+        Available = available;
     }
+
 }
