@@ -1,18 +1,13 @@
 (Practicing C# & .NET for Dat240)
 
 ### Should cover most, if not all:
-- Types
-- Classes
-- Values
+- Types & Values
 - Interfaces
-- Objects
-- Loops
 - Generics
 - OOP
-- Type Casting
-- Queue
+- Queue (?)
 - Dependency Injection, DI
-- IEnumerable
+- Loops & IEnumerable
  
 
 # Project Overview: Library Management System
